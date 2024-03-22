@@ -23,6 +23,6 @@ $ git clone https://github.com/CsgoBotTG/CppRayTracing.git
 ![EXAMPLE](images/example.png)
 
 ### Customization
-<p>If you want to customaze your map go to <code>cppRayTracing/map.cpp</code> and change string map</p>
+<p>If you want to customize your map go to <code>cppRayTracing/map.cpp</code> and change string map</p>
 
 ![MAP CUTOMIZATION](images/map.png)
