@@ -18,7 +18,7 @@ $ git clone https://github.com/CsgoBotTG/CppRayTracing.git
 
 <h3 style="font-size: 20px">1. Go to <code>CppRayTracing/cppRayTracing</code></h3>
 <h3 style="font-size: 20px">2. Open <code>cppRayTracing.sln</code> in <u>Visual Studio</u></h3>
-<h3 style="font-size: 20px">3. Compile with Debug or Release</h3>
+<h3 style="font-size: 20px">3. Compile with Debug or Release. "WASD" - moving, "buttonLeft, buttonRight" - rotating</h3>
 
 ![EXAMPLE](images/example.png)
 
