@@ -58,6 +58,7 @@ int main()
             MAX_DEPTH,
             TILE,
             PROJ_COEFF,
+            WIDTH,
             HEIGHT,
             SCALE,
             DELTA_ANGLE

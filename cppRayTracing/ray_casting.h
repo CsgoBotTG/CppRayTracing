@@ -2,6 +2,7 @@
 #include <SFML/Graphics.hpp>
 #include <utility>
 #include <set>
+std::pair<int, int> mapping(float a, float b, int TILE);
 void ray_casting(
     sf::RenderWindow* window,
     std::set<std::pair<int, int>> world_map,
@@ -12,6 +13,7 @@ void ray_casting(
     int MAX_DEPTH,
     int TILE,
     float PROJ_COEFF,
+    float WIDTH,
     float HEIGHT,
     float SCALE,
     float DELTA_ANGLE
