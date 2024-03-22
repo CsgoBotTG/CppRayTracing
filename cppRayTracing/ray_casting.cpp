@@ -119,7 +119,7 @@ void ray_casting(
         depth *= cos(player_angle - cur_angle);
         float proj_height = PROJ_COEFF / depth;
         int c = 255 / (1 + depth * depth * 0.00002f);
-        sf::Color color(c, c / 2, c / 3);
+        sf::Color color(c / 2, c, c / 3);
 
         sf::RectangleShape rect;
         rect.setFillColor(color);
