@@ -3,8 +3,8 @@
 
 
 <h2 align="center">Installation</h2>
-<h3 style="font-size: 20px">1. Install <a href="https://visualstudio.microsoft.com/ru/downloads/">Visual Studio</a></h3>
-<h3 style="font-size: 20px">2. Install <a href="https://www.sfml-dev.org/download.php">SFML</a></h3>
+<h3 style="font-size: 20px">1. Install <a href="https://visualstudio.microsoft.com/ru/downloads/"><u>Visual Studio</u></a></h3>
+<h3 style="font-size: 20px">2. Install <a href="https://www.sfml-dev.org/download.php"><u>SFML</u></a></h3>
 <h3 style="font-size: 20px">3. Unpack <code>SFML.zip</code> to <code>C:/SFML</code> (directories <code>lib</code>, <code>bin</code>, and <code>include</code> in <code>C:/SFML</code>)</h3>
 <h3 style="font-size: 20px">4. Clone git repository</h3>
 
@@ -17,8 +17,8 @@ $ git clone https://github.com/CsgoBotTG/CppRayTracing.git
 <h2 align="center">Usage</h2>
 
 <h3 style="font-size: 20px">1. Go to <code>CppRayTracing/cppRayTracing</code></h3>
-<h3 style="font-size: 20px">2. Open <code>cppRayTracing.sln</code> in <a>Visual Studio</a></h3>
-<h3 style="font-size: 20px">3. Compile with Debug or Release in <a>Visual Studio</a></h3>
+<h3 style="font-size: 20px">2. Open <code>cppRayTracing.sln</code> in <u>Visual Studio</u></h3>
+<h3 style="font-size: 20px">3. Compile with Debug or Release</h3>
 
 ![EXAMPLE](images/example.png)
 
