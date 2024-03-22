@@ -1,1 +1,0 @@
-C:\Users\kaira\Documents\GitHub\cppRayTracing\cppRayTracing\x64\Debug\cppRayTracing.exe

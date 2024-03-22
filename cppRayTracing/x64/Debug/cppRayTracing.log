@@ -1,6 +1,0 @@
-﻿  cppRayTracing.cpp
-C:\Users\kaira\Documents\GitHub\cppRayTracing\cppRayTracing\cppRayTracing.cpp(23,42): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-C:\Users\kaira\Documents\GitHub\cppRayTracing\cppRayTracing\cppRayTracing.cpp(23,35): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-  main.cpp
-  Создание кода...
-  cppRayTracing.vcxproj -> C:\Users\kaira\Documents\GitHub\cppRayTracing\cppRayTracing\x64\Debug\cppRayTracing.exe
