@@ -1,6 +1,7 @@
 #pragma once
 #include <string>
 #include <math.h>
+
 // settings
 float WIDTH = 1200;
 float HEIGHT = 800;

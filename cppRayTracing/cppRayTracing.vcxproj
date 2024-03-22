@@ -144,13 +144,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="cppRayTracing.cpp" />
-    <ClCompile Include="main.cpp" />
     <ClCompile Include="map.cpp" />
     <ClCompile Include="player.cpp" />
     <ClCompile Include="ray_casting.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cppRayTracing.h" />
     <ClInclude Include="map.h" />
     <ClInclude Include="player.h" />
     <ClInclude Include="ray_casting.h" />

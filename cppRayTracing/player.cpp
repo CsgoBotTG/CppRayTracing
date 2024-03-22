@@ -1,8 +1,7 @@
-#include "player.h"
-
 #include <SFML/Graphics.hpp>
 #include <math.h>
 
+#include "player.h"
 
 Player::Player(float _x, float _y, float _angle, float _speed) : x(_x), y(_y), angle(_angle), speed(_speed) {}
 

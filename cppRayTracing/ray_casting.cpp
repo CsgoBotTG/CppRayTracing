@@ -1,15 +1,14 @@
-#include "ray_casting.h"
-
 #include <SFML/Graphics.hpp>
 #include <utility>
 #include <set>
 
+#include "ray_casting.h"
 
 void ray_casting(
-    sf::RenderWindow* window, 
+    sf::RenderWindow* window,
+    std::set<std::pair<int, int>> world_map,
     float player_pos[], 
     float player_angle, 
-    std::set<std::pair<int, int>> world_map,
     float HALF_FOV,
     int NUM_RAYS,
     int MAX_DEPTH,
